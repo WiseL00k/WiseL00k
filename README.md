@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![JinxAndAiko](https://github.com/user-attachments/assets/0dd21d09-4c9d-45c2-bfa5-cb8b4b462c67)
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=WiseL00k)
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WiseL00k) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WiseL00k)
