@@ -1,5 +1,4 @@
 ## Hi there 👋
-![trophy](https://github-profile-trophy.vercel.app/?username=WiseL00k)
 <!-- ![WiseL00k's GitHub stats](https://github-readme-stats.vercel.app/api?username=WiseL00k&show_icons=true&bg_color=00000000) -->
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&vCenter=true&repeat=false&width=435&lines=I%E2%80%99m+currently+learning)](https://git.io/typing-svg)
