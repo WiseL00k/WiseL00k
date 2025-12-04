@@ -1,5 +1,5 @@
 ## Hi there 👋
-<!-- ![WiseL00k's GitHub stats](https://github-readme-stats.vercel.app/api?username=WiseL00k&show_icons=true&bg_color=00000000) -->
+<!-- <div align="center"> <img src="https://metrics.lecoq.io/WiseL00k?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&vCenter=true&repeat=false&width=435&lines=I%E2%80%99m+currently+learning)](https://git.io/typing-svg)
 
@@ -10,12 +10,12 @@
 
 :computer: [Personal Website](https://wisel00k.site/)
 
+![WiseL00k's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WiseL00k)
+
 ![](https://komarev.com/ghpvc/?username=WiseL00k)
 
 <!-- ![JinxAndAiko](https://github.com/user-attachments/assets/0dd21d09-4c9d-45c2-bfa5-cb8b4b462c67) -->
 <!-- ![cheems](https://github.com/user-attachments/assets/2d6eacd4-ecc3-48e3-b1ac-43edb29625f3) -->
-
-<!-- You are my ![Visitor Count](https://profile-counter.glitch.me/WiseL00k/count.svg) visitor,thanks! -->
 
 <!--
 **WiseL00k/WiseL00k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
