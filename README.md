@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/-Python-007396?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-ROS-007396?style=for-the-badge&logo=ros&logoColor=ffffff)](https://www.ros.org/)🌱
 
-:computer: [Personal Website](https://wisel00k.github.io/)
+:computer: [Personal Website](https://wisel00k.online/)  
 
 ![WiseL00k's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WiseL00k)
 
