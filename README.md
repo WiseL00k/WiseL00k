@@ -1,21 +1,33 @@
-## Hi there 👋
-<!-- <div align="center"> <img src="https://metrics.lecoq.io/WiseL00k?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
+<div align="center">
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&vCenter=true&repeat=false&width=435&lines=I%E2%80%99m+currently+learning)](https://git.io/typing-svg)
+# Hi there 👋
 
-![](https://img.shields.io/badge/-C-007396?style=for-the-badge&logo=c&logoColor=ffffff)
-![](https://img.shields.io/badge/-C++-007396?style=for-the-badge&logo=cplusplus&logoColor=ffffff)
-[![](https://img.shields.io/badge/-Python-007396?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
-[![](https://img.shields.io/badge/-ROS-007396?style=for-the-badge&logo=ros&logoColor=ffffff)](https://www.ros.org/)🌱
+### I’m currently learning
 
-:computer: [Personal Website](https://WiseL00k.github.io/)  
+<p>
+  <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/ROS-111827?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
+</p>
 
-![WiseL00k's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WiseL00k)
+<p>
+  <a href="https://WiseL00k.github.io/">
+    <img src="https://img.shields.io/badge/Personal%20Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website" />
+  </a>
+</p>
 
-![](https://komarev.com/ghpvc/?username=WiseL00k)
+</div>
 
-<!-- ![JinxAndAiko](https://github.com/user-attachments/assets/0dd21d09-4c9d-45c2-bfa5-cb8b4b462c67) -->
-<!-- ![cheems](https://github.com/user-attachments/assets/2d6eacd4-ecc3-48e3-b1ac-43edb29625f3) -->
+---
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WiseL00k&bg_color=ffffff&color=111827&line=2563eb&point=111827&area=true&hide_border=true" alt="WiseL00k's GitHub activity graph" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=WiseL00k&style=flat-square&color=111827" alt="Profile views" />
+</div>
 
 <!--
 **WiseL00k/WiseL00k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
