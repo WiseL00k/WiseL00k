@@ -21,9 +21,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WiseL00k&bg_color=ffffff&color=111827&line=2563eb&point=111827&area=true&hide_border=true" alt="WiseL00k's GitHub activity graph" />
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=WiseL00k&style=flat-square&color=111827" alt="Profile views" />
