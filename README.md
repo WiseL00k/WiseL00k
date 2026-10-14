@@ -21,11 +21,6 @@
 
 ---
 
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=WiseL00k&style=flat-square&color=111827" alt="Profile views" />
-</div>
-
 <!--
 **WiseL00k/WiseL00k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
