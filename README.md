@@ -25,7 +25,7 @@
   <tr>
     <td align="center" width="50%">
       <strong>⚙️ Focus</strong><br />
-      <sub>Systems · Robotics · Automation</sub>
+      <sub>Systems · Robotics · Computer</sub>
     </td>
     <td align="center" width="50%">
       <strong>🧠 Currently learning</strong><br />
