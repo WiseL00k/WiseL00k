@@ -21,6 +21,37 @@
 
 ---
 
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <strong>⚙️ Focus</strong><br />
+      <sub>Systems · Robotics · Automation</sub>
+    </td>
+    <td align="center" width="50%">
+      <strong>🧠 Currently learning</strong><br />
+      <sub>C · C++ · Python · ROS</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>🛠️ Building with</strong><br />
+      <sub>Linux · Git · Open Source</sub>
+    </td>
+    <td align="center" width="50%">
+      <strong>🌐 Find me</strong><br />
+      <a href="https://WiseL00k.github.io/">Personal Website</a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<div align="center">
+  <sub>「 Stay curious · Keep building · Think in systems 」</sub>
+</div>
+
+---
+
 <!--
 **WiseL00k/WiseL00k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
